@@ -1,0 +1,19 @@
+{
+  "name": "drive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jacksonkasi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "googleapis": "^105.0.0",
+    "make-dir": "^3.1.0",
+    "nodejs-file-downloader": "^4.9.3",
+    "split-file": "^2.3.0"
+  }
+}
